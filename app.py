@@ -31,7 +31,7 @@ if __name__ == "__main__":
         page_icon="💬"
     )
     st.title("Llama3.1 with Groq 😎 - Stuti Nagaich")
-    st.subheader("Model used - llama-3.1-70b-versatile")
+    st.subheader("Model used - llama-3.3-70b-versatile")
     st.subheader("Please ask a question below and press ctrl + Enter to get response")
     query = st.text_area("Please enter your query : ")
     if query:
